@@ -1,4 +1,4 @@
-👋 Hi, Ny name is Ronen Ariely.
+👋 Hi, My name is Ronen Ariely.
 
 I am a senior consultant, an applications & data architect. 
 
